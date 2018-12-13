@@ -1,0 +1,12 @@
+{
+  "name": "extraxt-xml",
+  "version": "1.0.0",
+  "description": "it's a test for extract the content of a signed file to xml",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "me",
+  "license": "MIT",
+  "dependencies": {}
+}
